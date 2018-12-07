@@ -1,0 +1,21 @@
+img {
+    z-index: 1;
+}
+
+.btMenu {
+    z-index: 2;
+}
+
+.Popup {
+    width: 500px;
+    height: 40px;
+    background-color: #979797;
+    margin: 0 auto;
+    z-index: 2;
+    display: none;
+}
+
+.Popup h1 {
+    color: white;
+    text-align: center;
+}
